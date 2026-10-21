@@ -1,0 +1,48 @@
+{
+  "_doc": "21 October 2026. Start of the orange index v2: Matthieu's pasted values (skin saturation 1.5, light 0.02, solid background #e8714e, color_light 0.01, color_gradient 1). Both sources available (image 2 of matthieu10 = 10, and 5); starts on 10, the image he was looking at.",
+  "start": {
+    "source": "10",
+    "skin": {
+      "blue_to_natural": 1,
+      "hue_fine_deg": 0,
+      "saturation": 1.5,
+      "light": 0.02
+    },
+    "shirt": {
+      "cast_to_neutral": 1
+    },
+    "frame": {
+      "crop_bottom": 0
+    },
+    "bg": {
+      "mode": "color",
+      "color": "#e8714e",
+      "color_light": 0.01,
+      "color_gradient": 1
+    }
+  },
+  "sheet_tones": [
+    "Chaud",
+    "Froid",
+    "Ardoise",
+    "Taupe"
+  ],
+  "formats": [
+    [
+      "1:1",
+      1.0
+    ],
+    [
+      "4:5",
+      0.8
+    ],
+    [
+      "16:9",
+      1.7777777777777777
+    ],
+    [
+      "9:16",
+      0.5625
+    ]
+  ]
+}
